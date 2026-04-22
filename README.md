@@ -1,4 +1,5 @@
-here i  am documenting some of the  important concept of eda
+here i am documenting some of the important concept of eda  ,here  i picked the dataset from the kaggle this project is to analysis the performace of the student 
+we can  understand that student who study more hours have scored more marks and student who use social media for more hours have secured  less marks in math.
 
 # some of the important ouputs:
 #comparing the social_media_hours with math_score using the  scatterplot
