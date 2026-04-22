@@ -1,4 +1,3 @@
-<img width="1536" height="754" alt="pairplot1" src="https://github.com/user-attachments/assets/ece4d78c-ed24-4e6d-a39c-1f52d428c989" /># EDA
 here i  am documenting some of the  important concept of eda
 
 # some of the important ouputs:
@@ -64,4 +63,6 @@ with selective column
 
 where data  will be colored to indicate the distribution of group data
 
+here digaonal graph is kde curve of the group data falling in that range providing  extra demension  using hue="gender" concept
 
+if the overlapping is high then data is normally distributed and less overlapping then data is spread-out
