@@ -32,7 +32,7 @@ it generates the +ve corelation
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/36e12f40-a5a0-4678-9277-a1c03bd253bb" />
 
 # what is shown :
-The graph illustrates the relationship between students  mathematics scores and their study hours usage, explaining how study hours  may impact students performance in mathematics.
+The graph illustrates the relationship between students  mathematics scores and  study hours usage, explaining how study hours  may impact students performance in mathematics.
 
 # What is the observation
 by seeing the graph we can say that study hours increase the maths marks also increase and the 
@@ -41,8 +41,18 @@ points moving from the left to right in the upward direction which is clearly st
 
 
 
-#attendance vs math score
-the correlation between attendance_rate and math score 0.1334278647832626 by which we can say it is weak relation<img width="640" height="480" alt="socialvsmath" src="https://github.com/user-attachments/assets/334f9381-ab8c-46b0-b066-531d77d95875" />
+# here we are explian about the relationship between attendance vs math score
+
+
+<img width="640" height="480" alt="mathvsatt" src="https://github.com/user-attachments/assets/769b7a6c-c0d7-47d6-bbfe-65da6e4b7720" />
+
+# what is shown :
+The graph illustrates the relationship between students  mathematics scores and attendance , explaining how attendance  may impact students performance in mathematics.
+
+# What is the observation
+
+as here the attendance increase the maths marks also increase but the data is spread so we can say it is +ve corelation and weak relationships
+and correlation value also indicating that 0.1334278647832626 
 
 
 # understanding the all the numerical columns relationship using heatmap
