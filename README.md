@@ -1,5 +1,14 @@
-here i am documenting some of the important concept of eda  ,here  i picked the dataset from the kaggle this project is to analysis the performace of the student 
-we can  understand that student who study more hours have scored more marks and student who use social media for more hours have secured  less marks in math.
+# Introduction:
+This project focuses on analyzing student performance data using Exploratory Data Analysis (EDA). The objective is to identify key factors that influence academic performance, particularly math scores.
+
+# Dataset Overview
+
+The dataset contains 10,000 student records with 23 features, study habits, and academic scores. The variables include study hours, attendance rate, social media usage, and exam scores.
+
+
+# Data Cleaning (Missing Values)
+A data quality check was performed, and no missing values were found in the dataset.
+
 
 # some of the important ouputs:
 #comparing the social_media_hours with math_score using the  scatterplot
