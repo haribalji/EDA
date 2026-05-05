@@ -11,7 +11,7 @@ A data quality check was performed, and no missing values were found in the data
 
 
 # some of the important ouputs:
-#comparing the social_media_hours with math_score using the scatterplot with log-scale
+# comparing the social_media_hours with math_score using the scatterplot with log-scale
 
 <img width="640" height="480" alt="studyvsmathwithlog" src="https://github.com/user-attachments/assets/7759d5ca-8737-45c4-8d87-5b1c11b10fc9" />
 
@@ -27,9 +27,18 @@ However, the points are widely spread out, indicating that the relationship is w
 
 
 
-#now comparing the study hours with math score
+# now comparing the study hours with math score how they impact
 it generates the +ve corelation
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/36e12f40-a5a0-4678-9277-a1c03bd253bb" />
+
+# what is shown :
+The graph illustrates the relationship between students  mathematics scores and their study hours usage, explaining how study hours  may impact students performance in mathematics.
+
+# What is the observation
+by seeing the graph we can say that study hours increase the maths marks also increase and the 
+points moving from the left to right in the upward direction which is clearly stating that it is positive corealtion and  the points is spread and moving upward so it is moderate realtionship ,by seeing this we can finally come to conclusion that student  study more hours will gain more marks
+
+
 
 
 #attendance vs math score
