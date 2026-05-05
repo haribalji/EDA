@@ -41,7 +41,7 @@ points moving from the left to right in the upward direction which is clearly st
 
 
 
-# here we are explian about the relationship between attendance vs math score
+# here we are explain about the relationship between attendance vs math score
 
 
 <img width="640" height="480" alt="mathvsatt" src="https://github.com/user-attachments/assets/769b7a6c-c0d7-47d6-bbfe-65da6e4b7720" />
