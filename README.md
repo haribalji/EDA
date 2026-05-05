@@ -11,10 +11,21 @@ A data quality check was performed, and no missing values were found in the data
 
 
 # some of the important ouputs:
-#comparing the social_media_hours with math_score using the  scatterplot
-<img width="640" height="480" alt="socialvsmath" src="https://github.com/user-attachments/assets/cf4e0326-d50a-4bcc-abe7-5a545b282f6f" />
+#comparing the social_media_hours with math_score using the scatterplot with log-scale
 
-here it comes with the -ve correlation
+<img width="640" height="480" alt="studyvsmathwithlog" src="https://github.com/user-attachments/assets/7759d5ca-8737-45c4-8d87-5b1c11b10fc9" />
+
+
+# what is shown :
+The graph illustrates the relationship between students  mathematics scores and their social media usage, highlighting how social media activity may impact students performance in mathematics.
+
+# What is the observation
+The scatter plot shows a negative correlation between social media usage and math marks.
+This means that as social media usage increases, math marks tend to decrease.
+However, the points are widely spread out, indicating that the relationship is weak.
+
+
+
 
 #now comparing the study hours with math score
 it generates the +ve corelation
