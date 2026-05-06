@@ -126,15 +126,20 @@ By Observing the grade categorical we can see that grade 'F' is secured by more 
 # By Observation from the above graph
 The pairplot is used to compare multiple numerical features simultaneously. The diagonal plots represent the distribution of each feature, showing that all three scores follow an approximately normal distribution. The off-diagonal scatter plots show the relationships between variables. The upper and lower triangles are symmetric and convey the same information. From the scatter plots, we observe a strong positive correlation between math, reading, and writing scores, indicating that students who perform well in one subject tend to perform well in others.
 
-#pairplot with hue to add the 3rd demension with hue="gender" 
-#noted that in hue we can pass only categorial data only
-
+# pairplot with hue to add the 3rd demension with hue="gender" 
+# noted that in hue we can pass only categorcial data only
 
 <img width="1536" height="754" alt="pairplot" src="https://github.com/user-attachments/assets/bf12f8cc-0cc2-44f4-a35c-0de5a6049667" />
 
+The hue parameter adds a third variable (categorical) to the visualization,
+It separates the data using colors
+Blue → Male
+Orange → Female
 
-where data  will be colored to indicate the distribution of group data
+In diagonal the graphs appears smooth and wavely 
+if smooth(bell shape) then in each bin no of male and female students are equal because of which the curve overlap and they appear smooth
+if wavely (wave like structure ) means then in each bin their is different count of male and female
+The off-diagonal scatter plots show the relationships between variables and which people dominated there(male or female)
 
-here digaonal graph is kde curve of the group data falling in that range providing  extra demension  using hue="gender" concept
 
-if the overlapping is high then data is normally distributed and less overlapping then data is spread-out
+
