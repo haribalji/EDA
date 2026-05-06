@@ -80,8 +80,12 @@ observing the graph for mathscore with social media it indicating the negative c
 
 by doing the analysis we can also say that relationship between math_score and studyhours_perday it is strong postive relation but not perfect  with value of 0.5 by observing the graph
 
-#Inorder to analysis the single column data   we used the histogram with equal bins 
+# Inorder to analysis the single column data   we used the histogram with equal bins 
 <img width="640" height="480" alt="histplotgraph" src="https://github.com/user-attachments/assets/b934a727-c49f-4c74-9c17-3aca3cec3be4" />
+
+
+The histogram with KDE shows the distribution of math scores. The data is unimodal(one peak area) , indicating that most students scored between 40 and 60. The distribution appears bell shape which indicating it is normal and symmetric, with fewer observations in the lower and higher score ranges, forming the tails.
+
 
 # Then using boxplot
 <img width="640" height="480" alt="boxplotcurve" src="https://github.com/user-attachments/assets/4f28ed23-f816-49d0-a563-27fc6c6bae99" />
