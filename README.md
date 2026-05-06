@@ -60,7 +60,25 @@ and correlation value also indicating that 0.1334278647832626
 <img width="1736" height="925" alt="image" src="https://github.com/user-attachments/assets/3d6521cc-8c00-45d6-ae3d-ebc3521b3842" />
 
 
-by doing the analysis we can say that relationship between math_score and studyhours_perday it is strong postive relation but not perfect  with value of 0.5 by observing the graph
+
+
+here in this graph all the numerical feature is compared with each other and diagonal is compared with itself so it's value is 1 ,
+red colour is indicating +ve corealation 
+blue colour is indicating -ve corealtion 
+fade light color is indicating the weak relationship 
+observing the graph for mathscore with social media it indicating the negative correaltion as value is -0.22 
+# we know that
+1 perfect +ve correlation
+0.7 to 1 strong +ve correlation 
+0.4 to 0.7 moderate +ve correlation 
+0.4 to 0 weak +ve correlation 
+0 - no correlation
+0 to -.4 weak -ve correlation 
+-0.4 to -.7 moderate -ve correlation 
+-0.7 to -1 strong -ve correlation 
+1 is perfect -ve correlation
+
+by doing the analysis we can also say that relationship between math_score and studyhours_perday it is strong postive relation but not perfect  with value of 0.5 by observing the graph
 
 #Inorder to analysis the single column data   we used the histogram with equal bins 
 <img width="640" height="480" alt="histplotgraph" src="https://github.com/user-attachments/assets/b934a727-c49f-4c74-9c17-3aca3cec3be4" />
