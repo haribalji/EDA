@@ -37,7 +37,7 @@ The graph illustrates the relationship between students  mathematics scores and 
 
 # What is the observation
 by seeing the graph we can say that study hours increase the maths marks also increase and the 
-points moving from the left to right in the upward direction which is clearly stating that it is positive corealtion and  the points is spread and moving upward so it is moderate realtionship ,by seeing this we can finally come to conclusion that student  study more hours will gain more marks
+points moving from the left to right in the upward direction which is clearly stating that it is positive corealtion and  the points is spread and moving upward so it is moderate realtionship ,by seeing this we can finally come to conclusion that student  study more hours will tend to gain more marks
 
 
 
