@@ -110,7 +110,7 @@ minimum value can 15 and maximum value can 85 and outlier value can 99 and 0.17
 
 # Here using  countplot inorder to count the frequency of categorical  data distribution
 
-<img width="640" height="480" alt="countplotwithcount" src="https://github.com/user-attachments/assets/e0fa532f-7e3e-4c8d-a58f-73282ef61a50" />
+<img width="640" height="480" alt="countplotforgrade" src="https://github.com/user-attachments/assets/202b05a2-b5c3-4963-bf9e-ebda6177dafa" />
 
 
 here just calculating the frequency of the  categorical data feature as here we have taken the grade categorical feature which has A ,B,C,D,F 
