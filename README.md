@@ -3,7 +3,7 @@ This project focuses on analyzing student performance data using Exploratory Dat
 
 # Dataset Overview
 
-The dataset contains 10,000 student records with 23 features, study habits, and academic scores. The variables include study hours, attendance rate, social media usage, and exam scores.
+The dataset contains 10,000 student records with 23 features, study habits, and academic scores. The variables include study hours, attendance rate, social media usage, and  math scores.
 
 
 # Data Cleaning (Missing Values)
@@ -11,6 +11,7 @@ A data quality check was performed, and no missing values were found in the data
 
 
 # some of the important ouputs:
+
 # comparing the social_media_hours with math_score using the scatterplot with log-scale
 
 <img width="640" height="480" alt="studyvsmathwithlog" src="https://github.com/user-attachments/assets/7759d5ca-8737-45c4-8d87-5b1c11b10fc9" />
