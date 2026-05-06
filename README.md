@@ -119,13 +119,12 @@ By Observing the grade categorical we can see that grade 'F' is secured by more 
 
 
 
-#then pairplot to compare all the numerical column with visual inorder to identify the pattern
+# Here  pairplot is used to  compare all the numerical column with visuals inorder to identify the pattern with selective column
 
-
-<img width="1536" height="754" alt="pairplot1" src="https://github.com/user-attachments/assets/636f58a1-4574-40e9-af7b-d65f5d4d11b1" />
-
-with selective column
 <img width="749" height="749" alt="pairplot2" src="https://github.com/user-attachments/assets/d2639ff5-a20c-49a3-b5e9-df8e73854c8c" />
+
+# By Observation from the above graph
+The pairplot is used to compare multiple numerical features simultaneously. The diagonal plots represent the distribution of each feature, showing that all three scores follow an approximately normal distribution. The off-diagonal scatter plots show the relationships between variables. The upper and lower triangles are symmetric and convey the same information. From the scatter plots, we observe a strong positive correlation between math, reading, and writing scores, indicating that students who perform well in one subject tend to perform well in others.
 
 #pairplot with hue to add the 3rd demension with hue="gender" 
 #noted that in hue we can pass only categorial data only
