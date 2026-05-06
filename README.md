@@ -142,4 +142,6 @@ if wavely (wave like structure ) means then in each bin their is different count
 The off-diagonal scatter plots show the relationships between variables and which people dominated there(male or female)
 
 
+# conclusion
 
+The analysis indicates that study hours have a moderate positive relationship with student performance, while attendance shows a weak positive relationship. Social media usage has a weak negative association with marks. Additionally, the dataset contains slightly more failing students than passing students, suggesting a mild imbalance in performance outcomes. Overall, study habits appear to have a stronger influence on performance compared to other factors.
