@@ -108,13 +108,18 @@ blue color area indicating 50% of the people score are lying between 40 to 60
 minimum value can 15 and maximum value can 85 and outlier value can 99 and 0.17
 
 
-#here  working with countplot inorder to measure the count of the categacial data distribution
-<img width="640" height="480" alt="countplot" src="https://github.com/user-attachments/assets/5692b21c-5e75-4958-b699-030afd30c316" />
+# Here using  countplot inorder to count the frequency of categorical  data distribution
 
-measuring the male and female student  distribution
+<img width="640" height="480" alt="countplotwithcount" src="https://github.com/user-attachments/assets/e0fa532f-7e3e-4c8d-a58f-73282ef61a50" />
 
 
-#then pairplot to comapare all the numerical column with visual inorder to identify the pattern
+here just calculating the frequency of the  categorical data feature as here we have taken the grade categorical feature which has A ,B,C,D,F 
+# What is the observation :
+By Observing the grade categorical we can see that grade 'F' is secured by more no of students ,which indicating that more no of failures occured
+
+
+
+#then pairplot to compare all the numerical column with visual inorder to identify the pattern
 
 
 <img width="1536" height="754" alt="pairplot1" src="https://github.com/user-attachments/assets/636f58a1-4574-40e9-af7b-d65f5d4d11b1" />
