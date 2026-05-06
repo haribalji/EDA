@@ -91,13 +91,19 @@ The histogram with KDE shows the distribution of math scores. The data is unimod
 <img width="640" height="480" alt="boxplotcurve" src="https://github.com/user-attachments/assets/4f28ed23-f816-49d0-a563-27fc6c6bae99" />
 
 
+# what is shown
+
+here boxplot is used to give the summary of the given dataset feature
+where it speaks about 
+minimum value ,maximum value,1st quartile ,2nd quartile ,3rd quartile and outliers of the given feature
+ 
 here by seeing this we say that
 
-1st quartile lies in score 40 by which we can say 25% of the students score are below 40
+1st quartile lies in score 40 by which we can say 25% of the students score are below 40(left side line)
 
-3rd quartile lies in score 60 by which we can say 75% of the students score are below 40
+3rd quartile lies in score 60 by which we can say 75% of the students score are below 60(right side line)
 
-50% of the people score are lying between 40 to 60
+blue color area indicating 50% of the people score are lying between 40 to 60 
 
 minimum value can 15 and maximum value can 85 and outlier value can 99 and 0.17
 
