@@ -81,7 +81,7 @@ observing the graph for mathscore with social media it indicating the negative c
 
 by doing the analysis we can also say that relationship between math_score and studyhours_perday it is strong postive relation but not perfect  with value of 0.5 by observing the graph
 
-# Inorder to analysis the single column data   we used the histogram with equal bins 
+# Inorder to analysis the single column data   we used the histogram with equal bins  size
 <img width="640" height="480" alt="histplotgraph" src="https://github.com/user-attachments/assets/b934a727-c49f-4c74-9c17-3aca3cec3be4" />
 
 
