@@ -55,7 +55,7 @@ as here the attendance increase the maths marks also increase but the data is sp
 and correlation value also indicating that 0.1334278647832626 
 
 
-# understanding the all the numerical columns relationship using heatmap
+# Here comparing  all the numerical columns relationship using heatmap
 
 <img width="1736" height="925" alt="image" src="https://github.com/user-attachments/assets/3d6521cc-8c00-45d6-ae3d-ebc3521b3842" />
 
